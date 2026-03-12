@@ -14,7 +14,7 @@ Este projeto não busca reinventar nada. Ele foi criado como parte da minha jorn
 - Cadastro de categorias de alimentos
 - Cadastro de alimentos vinculados às categorias
 - Atualização e exclusão de registros
-- Endpoint para sugerir receitas com base nos ingredientes cadastrados (em construção)
+- Endpoint para sugerir receitas com base nos ingredientes cadastrados
 
 ## 🚀 Tecnologias utilizadas
 - Java 25
