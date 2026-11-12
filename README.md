@@ -4,7 +4,7 @@ Um projeto desenvolvido em **Java + Spring Boot** que simula uma "geladeira inte
 a ideia é cadastrar alimentos e suas categorias em um banco de dados, e usar inteligência artificial para sugerir receitas com base nos ingredientes disponíveis.
 
 ## 🎯 Objetivo
-Este projeto não busca reinventar nada. Ele foi criado como parte da minha jornada de aprendizado, explorando:
+projeto criado como parte da minha jornada de aprendizado, explorando:
 - Estrutura de APIs REST com Spring Boot
 - Persistência de dados com JPA/Hibernate
 - Organização de entidades e DTOs
@@ -24,7 +24,3 @@ Este projeto não busca reinventar nada. Ele foi criado como parte da minha jorn
 - Maven
 
 Este projeto é experimental e voltado para aprendizado.
-
-Não há preocupação com inovação, mas sim com evolução pessoal e prática de conceitos.
-
-Sugestões e críticas construtivas são bem-vindas!
